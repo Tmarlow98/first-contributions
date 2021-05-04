@@ -84,6 +84,7 @@ Gavriel Frant
 - [Sumit Kumar Prasad](https://github.com/sumitkp11)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
+- [Tyler Marlow] (https://github.com/Tmarlow98)
 - [SamTienz](https://github.com/SamTienz)
 - [Samuel Adesoye] (https://github.com/Folami-kun)
 - [Saad Shoaib] (https://github.com/SaadShoaib)
